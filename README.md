@@ -1,2 +1,3 @@
-# rs-basic
-test basic repository functions
+# 5주차 강의 요약  
+
+
